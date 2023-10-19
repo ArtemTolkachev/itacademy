@@ -1,1 +1,1 @@
-# [artemtolkachevitacademy](https://artemtolkachev.github.io/itacademy/)
+# [artemtolkachev-itacademy](https://artemtolkachev.github.io/itacademy/)
